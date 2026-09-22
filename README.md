@@ -1,0 +1,2 @@
+# Heavy-Equipment-Selling-Price-Prediction-Challenge
+Objective: Predict the auction sale price of heavy equipment using advanced regression and ensemble modeling[cite: 1].  This notebook strictly follows a robust data science lifecycle:  Exploratory Data Analysis (EDA) Preprocessing &amp; Feature Engineering  Model Building &amp; Cross-Validation Hyperparameter Tuning Optimization &amp; Ensembling
